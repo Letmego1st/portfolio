@@ -10,7 +10,9 @@ I included a recent photo of myself.
 The projects presented in the My Work section include a couple of sample programs I have worked on for the bootcamp as well as some placeholder applications that will be added to as I complete more applications in the bootcamp and on my own.
 The non-placholder applications will take the user to the deployed application on my GitHub when clicked on.
 The page was styled for multiple screen sizes, including tablets and mobile phones.
+
 Link to deployed application:
+https://letmego1st.github.io/portfolio/
 
 <img src="./assets/css/image0 copy 2.jpeg" alt="An image of John Elmore" width="200" height="200" />
 
