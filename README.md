@@ -13,6 +13,7 @@ The page was styled for multiple screen sizes, including tablets and mobile phon
 
 Link to deployed application:
 https://letmego1st.github.io/portfolio/
+https://github.com/Letmego1st/portfolio
 
 <img src="./assets/css/image0 copy 2.jpeg" alt="An image of John Elmore" width="200" height="200" />
 
