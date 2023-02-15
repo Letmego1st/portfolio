@@ -12,6 +12,7 @@ The non-placholder applications will take the user to the deployed application o
 The page was styled for multiple screen sizes, including tablets and mobile phones.
 
 Link to deployed application:
+
 https://letmego1st.github.io/portfolio/
 https://github.com/Letmego1st/portfolio
 
