@@ -226,8 +226,10 @@ header {
         color: var(accent);
     }
 
-    .projectA grayscale web-link:hover {
-        filter: grayscale(0);
+    .projectA grayscale web-link {
+        width: 5rem;
+        height: 5rem;
+        margin-left: 25%;
     }
 
     .m-selfie {
