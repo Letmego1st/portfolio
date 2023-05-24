@@ -306,8 +306,8 @@ header {
         flex-direction: column;
         justify-content: space-evenly;
         height: 75%;
-        align-items: end;
-        text-align: end;
+        align-items: flex-end;
+        text-align: right;
     }
 
     .web {
