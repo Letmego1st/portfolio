@@ -1,16 +1,21 @@
 # Portfolio
 ## John Elmore: Professional Portfolio
 
-For this challenge I wrote the HTML and CSS for a sample professional portfolio which will be added to over time to become my own personal portfolio of work. I used what I learned in the prework and first three weeks of bootcamp to write the HTML and CSS from scratch, while keeping in mind the following requirements:
+For my professional portfolio, I meticulously developed a sample website using HTML, CSS, and JavaScript, which serves as a foundation for my future personal portfolio. Leveraging the knowledge and skills acquired during the prework and initial three weeks of the bootcamp, I crafted the HTML and CSS code entirely from scratch, adhering to the following criteria:
 
-The Site is divided into several sections, including About Me, Projects, and Contact Info.
-I included functioning navigation links at the top of the page to take the user to any of the sections
-I will also include a link to my resume as the end of the course approaches.
+* Structured Sections: My website is thoughtfully organized into distinct sections, encompassing essential components such as "About Me," "Projects," and "Contact Info."
 
-The projects presented in the Projects section include a couple of sample programs I have worked on for the bootcamp as well as some placeholder applications that will be added to as I complete more applications in the bootcamp and on my own.
-The page was also styled for multiple screen sizes, including tablets and mobile phones.
+* Seamless Navigation: To enhance user experience, I implemented fully functional navigation links at the top of the page, allowing visitors to effortlessly navigate to any desired section of the website.
 
-Link to deployed application:
+* Resume Inclusion: As I progress through the course, I plan to incorporate a prominent link to my comprehensive resume, ensuring that prospective stakeholders have access to my professional background and achievements.
+
+* Comprehensive Project Showcase: Within the "Projects" section, I showcase a diverse array of programming endeavors. This includes exemplary projects completed during the bootcamp, as well as preliminary applications that will be continuously expanded upon as I tackle further challenges both within the bootcamp curriculum and independently.
+
+* Responsive Design: Recognizing the significance of optimal user experience across various devices, I diligently tailored the website's styling to accommodate multiple screen sizes, including tablets and mobile phones.
+
+* By adhering to these meticulous standards, I aim to present a polished and dynamic portfolio that showcases my skills and accomplishments as I progress in my professional journey.
+
+I invite you to explore my deployed application through the following link:
 
 Please Click Image Below!!!
 
