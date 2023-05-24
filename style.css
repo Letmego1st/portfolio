@@ -284,6 +284,18 @@ header {
         justify-content: space-between;
     }
 
+    .m-containerC {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .m-containerD {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
     .m-contact-box {
         width: 90%;
         display: flex;
@@ -295,7 +307,14 @@ header {
     }
 
     .web {
-        display: none;
+        display: flex;
+        
+    }
+
+    .web-view-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
     }
 
     .m-nav-link:hover {
