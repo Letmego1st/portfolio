@@ -1,5 +1,5 @@
 # portfolio
-Advanced CSS Challenge: Professional Portfolio
+John Elmore: Professional Portfolio
 
 For this challenge I wrote the HTML and CSS for a sample professional portfolio which will be added to over time to become my own personal portfolio of work. I used what I learned in the prework and first three weeks of bootcamp to write the HTML and CSS from scratch, while keeping in mind the following requirements:
 
