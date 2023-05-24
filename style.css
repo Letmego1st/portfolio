@@ -211,8 +211,10 @@ header {
 
      /* Styles for cell phone view */
     @media (max-width: 480px) {
-        .container {
-            padding: 10px;
+        .mobile {
+            display: flex;
+        flex-direction: column;
+        align-items: center;
         }
 
     .m-nav-link {
@@ -222,6 +224,10 @@ header {
 
     b {
         color: var(accent);
+    }
+
+    .projectA grayscale web-link:hover {
+        filter: grayscale(0);
     }
 
     .m-selfie {
