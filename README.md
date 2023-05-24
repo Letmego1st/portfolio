@@ -13,7 +13,7 @@ For my professional portfolio, I meticulously developed a sample website using H
 
 * Responsive Design: Recognizing the significance of optimal user experience across various devices, I diligently tailored the website's styling to accommodate multiple screen sizes, including tablets and mobile phones.
 
-* By adhering to these meticulous standards, I aim to present a polished and dynamic portfolio that showcases my skills and accomplishments as I progress in my professional journey.
+By adhering to these meticulous standards, I aim to present a polished and dynamic portfolio that showcases my skills and accomplishments as I progress in my professional journey.
 
 I invite you to explore my deployed application through the following link:
 
