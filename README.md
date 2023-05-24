@@ -21,6 +21,7 @@ Please Click Image Below!!!
 
 [![MY PORTFOLIO](./images/my_deployed_site.png)](https://letmego1st.github.io/portfolio/)
 
+A GIF To Demonstrate The Deployed Portfolio!!
 
 ![MY PORTFOLIO GIF](./images/PORTFOLIO_GIF.gif)
 
