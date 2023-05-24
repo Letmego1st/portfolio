@@ -276,24 +276,28 @@ header {
         width: 80vw;
         text-align: center;
         height: 100vh;
+        flex-wrap: wrap;
     }
 
     .m-containerB {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
 
     .m-containerC {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
 
     .m-containerD {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        flex-wrap: wrap;
     }
 
     .m-contact-box {
@@ -307,7 +311,7 @@ header {
     }
 
     .web {
-        display: flex;
+        display: none;
         
     }
 
