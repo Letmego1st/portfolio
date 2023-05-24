@@ -1,7 +1,7 @@
 # Portfolio
 ## John Elmore: Professional Portfolio
 
-For my professional portfolio, I meticulously developed a sample website using HTML, CSS, and JavaScript, which serves as a foundation for my future personal portfolio. Leveraging the knowledge and skills acquired during the prework and initial three weeks of the bootcamp, I crafted the HTML and CSS code entirely from scratch, adhering to the following criteria:
+For my professional portfolio, I meticulously developed a sample website using HTML, CSS, and JavaScript, which serves as a foundation for my future personal portfolio. Leveraging the knowledge and skills acquired during the prework and initial three weeks of the bootcamp, I crafted the HTML, CSS, & JavaScript code entirely from scratch, adhering to the following criteria:
 
 * Structured Sections: My website is thoughtfully organized into distinct sections, encompassing essential components such as "About Me," "Projects," and "Contact Info."
 
