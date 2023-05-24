@@ -269,7 +269,7 @@ header {
         color: var(--light);
     }
 
-    .m-container {
+    .m-project {
         display: flex;
         flex-direction: column;
         align-items: center;
