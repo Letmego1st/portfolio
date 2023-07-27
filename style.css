@@ -87,7 +87,7 @@ body{
     margin-left:rem;
 }
 .secondary-title-9 {
-    font-size: larger;
+    font-size: lg;
     font-family: (var(--font2));
     margin-bottom: .5rem;
     margin-left: -2rem;
