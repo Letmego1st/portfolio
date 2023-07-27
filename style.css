@@ -60,16 +60,43 @@ body{
     color: var(--light);
     padding-top: 2rem;
 }
-
 .secondary-title {
     font-size: larger;
     font-family: (var(--font2));
     margin-bottom: .5rem;
+    margin-left: -1rem;
+}
+.secondary-title-1 {
+    font-size: larger;
+    font-family: (var(--font2));
+    margin-bottom: .5rem;
+    margin-left: -1rem;
+}
+
+
+.secondary-title-2 {
+    font-size: larger;
+    font-family: (var(--font2));
+    margin-bottom: .5rem;
+    margin-left: -1rem;
+}
+.secondary-title-3 {
+    font-size: larger;
+    font-family: (var(--font2));
+    margin-bottom: .5rem;
+    margin-left:rem;
+}
+.secondary-title-9 {
+    font-size: larger;
+    font-family: (var(--font2));
+    margin-bottom: .5rem;
+    margin-left: -2rem;
 }
 
 .web-link {
     color: var(--dark);
     text-decoration: none;
+    font: 1.2em sans-serif;
 }
 
 .grayscale {
@@ -174,6 +201,14 @@ header {
     padding-left: 2rem;
     align-items: center;
 }
+.flex-container-1 {
+    display: flex;
+    justify-content: left;
+    padding-left: 24.8rem;
+    align-items: center;
+    
+}
+
 .text-container {
     width: 40%;
     padding: 1rem;
