@@ -19,7 +19,7 @@ body{
     font-family: var(--font1);
     font-size: larger;
     text-transform: uppercase;
-    margin-left: 3.6%;
+    margin-left: 3.5%;
     margin-bottom: 0%;
 }
 
@@ -27,7 +27,7 @@ body{
     margin-top: .5rem;
     color: car(--mid);
     font-family: var(--font1);
-    margin-left: 4%;
+    margin-left: 3.5%;
     margin-bottom: 5%;
 }
 
@@ -90,13 +90,20 @@ body{
     font-size: lg;
     font-family: (var(--font2));
     margin-bottom: .5rem;
-    margin-left: -2rem;
+    margin-left: 2.9rem;
 }
 
 .web-link {
     color: var(--dark);
     text-decoration: none;
     font: 1.2em sans-serif;
+}
+
+.projectA grayscale web-link {
+    width: 10rem;
+    height: 10rem;
+    margin-left: 25rem;
+    margin-right: 10rem;
 }
 
 .grayscale {
@@ -115,12 +122,38 @@ body{
     border: solid var(--soft) px;
 }
 
+#plant-care {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/page_turner.png");
+    background-size: cover;
+    margin-left: 4.2%;
+    
+}
+
+#note-taker {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/page_turner.png");
+    background-size: cover;
+    margin-left: 4%;
+    
+}
+
+#weather-dashboard {
+    width: 100%;
+    height: 100%;
+    background-image: url("../images/page_turner.png");
+    background-size: cover;
+    margin-left: -2.9%;
+    
+}
 #page-turner {
     width: 100%;
     height: 100%;
     background-image: url("../images/page_turner.png");
     background-size: cover;
-    margin-left: -3.6%;
+    margin-left: -2.9%;
     
 }
 
